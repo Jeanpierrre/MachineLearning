@@ -1,8 +1,8 @@
 
 <p align="center">  
-<span style="font-size: 45px;font-weight:bold">
+<h2 style="font-size: 45px;font-weight:bold">
     Primer Laboratorio de Introduction to <br> Machine Learning  
-</span >
+</h2>
 </p>
 <p align="center">
   <img src="image.png" alt="logo UTEC" width=200 height=200>
@@ -19,11 +19,16 @@
   </em>  
 </p> 
 <p align="center"> 
-  <span style="font-size: 30px;font-weight:bold">
+  <h1 style="font-size: 30px;font-weight:bold">
     Tema de Laboratorio: LINEAR REGRESION
-  </span >
+  </h1 >
 </p> 
 
+## Integrantes:  
+- Marco Wanly Obregon Casique 
+- Jean Pierre Chumpi Chumpi   
+- Angel Mucha Ma Chuca  
+  
 ## Preguntas:  
 
 ### Cual es tu dataset? (5pts)  
