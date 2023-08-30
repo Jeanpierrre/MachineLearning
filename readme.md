@@ -1,8 +1,8 @@
 
 <p align="center">  
-<h2 style="font-size: 45px;font-weight:bold">
+<span style="font-size: 45px;font-weight:bold">
     Primer Laboratorio de Introduction to <br> Machine Learning  
-</h2>
+</span >
 </p>
 <p align="center">
   <img src="image.png" alt="logo UTEC" width=200 height=200>
@@ -19,9 +19,9 @@
   </em>  
 </p> 
 <p align="center"> 
-  <h1 style="font-size: 30px;font-weight:bold">
+  <span style="font-size: 30px;font-weight:bold">
     Tema de Laboratorio: LINEAR REGRESION
-  </h1 >
+  </span >
 </p> 
 
 ## Integrantes:  
