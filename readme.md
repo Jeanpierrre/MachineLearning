@@ -1,4 +1,9 @@
-# Primer Laboratorio de Introduction to Machine Learning  
+
+<p align="center">  
+<span style="font-size: 30px;">
+    Primer Laboratorio de Introduction to <br> Machine Learning  
+</span >
+</p>
 <p align="center">
   <img src="image.png" alt="logo UTEC" width=200 height=200>
 </p>
