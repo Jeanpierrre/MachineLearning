@@ -6,17 +6,69 @@
   <em >
     Universidad de Ingenieria y Tecnologia (UTEC) -- Lima, Peru
   </em>  
-
 </p>
   
 <p align="center"> 
   <em >
-    August 2023 -- Seccion Profesor Arturo Deza
+    August 2023 -- Seccion Profesor Arturo Deza <br>    
   </em>  
-
+</p> 
+<p align="center"> 
+  <span style="font-size: 24px;">
+    Tema de Laboratorio: LINEAR REGRESION
+  </span >
 </p> 
 
-### No se usar readme xD
+## Preguntas:  
+
+### Cual es tu dataset? (5pts)  
+
+El dataset elegido contiene los detalles sobre la emisión de CO2 parte de vehículos con diversas características. Estos datos fueron recopilados en Canadá durante un período de 7 años y constan de 7385 registros con 12 columnas en total. Dentro del contenido del dataset se encuentran los siguientes campos:  
+
+-  **Modelo:** Hace referencia a la designación específica del vehículo  
+-  **Transmisión:**  Describe cómo se realiza el cambio de marchas en el vehículo y qué tipo de transmisión utiliza  
+-  **Tipo de combustible:** Especifica el tipo de combustible que utiliza el vehículo.  
+-  **El consumo de combustible:** Proporciona información sobre el rendimiento en términos de consumo de combustible del vehículo en diferentes condiciones de conducción  
+-  **Emisiones de CO2:** Representa la cantidad de dióxido de carbono emitido por el vehículo por kilómetro recorrido, considerando tanto la conducción en ciudad como en carretera  
+
+### Cual es el problema de regresion que estas resolviendo? (2pts)  
+_*Predicción de CO2 emitida en función del tamaño del motor.*_  
+El objetivo es poder comprender sobre cómo el tamaño del motor afecta a las emisiones del CO2. A medida que el tamaño del motor aumenta o disminuye se quiere determinar si existe una relación lineal entre estas dos variables. Con ella poder predecir las emiciones del CO2.
+
+### Cuantos data points tiene tu data? (0.5pts)  
+Mi conjunto de datos contiene un total de 7385 registros donde cada registro representa una única con información sobre emisiones de CO2 de vehículos y sus características asociadas.  
+
+### Cual es el $\beta$ asumiendo que cruza el origen? (1pt)  
+
+### Cual es el $\beta$ asumiendo que no cruza el origen? (2pts)  
+
+### Cual es el número de variables independientes? (0.5pts)  
+
+### Cual es la variable dependiente? (0.5pts)  
+La variable dependiente es el CO2, ya que es la medida que se busca predecir en base a las características del vehículo.  
+
+### Cuales son las unidades de medicion para cada variable? (0.5pts)  
+Respecto a la cantidad de CO2 emitida esta medida en gramos/kilometros, y el Tamaño del motor esta en base a la capacidad en litros que soporta el motor.  
+
+## Regresion por el Origen (3pts)  
+Imagen aqui  
+
+### Cual es el error promedio cuadratico?   
+
+## Regresion que no pasa por el Origen (2pts)  
+Imagen aqui  
+
+### Cual es el error promedio cuadratico?  
+
+
+## Regresion en base a 100 veces (3pts)  
+
+### Cual es el $\beta$ promedio encontrado cuando la regresion se hace con la recta pasando por el origen y no pasando por el origen? 
+
+
+
+
+
 
 
 #Formula que usaremos 
