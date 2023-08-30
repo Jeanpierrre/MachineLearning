@@ -1,3 +1,21 @@
+# Primer Laboratorio de Introduction to Machine Learning  
+<p align="center">
+  <img src="image.png" alt="logo UTEC" width=200 height=200>
+</p>
+<p align="center"> 
+  <em >
+    Universidad de Ingenieria y Tecnologia (UTEC) -- Lima, Peru
+  </em>  
+
+</p>
+  
+<p align="center"> 
+  <em >
+    August 2023 -- Seccion Profesor Arturo Deza
+  </em>  
+
+</p> 
+
 ### No se usar readme xD
 
 
