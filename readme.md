@@ -1,6 +1,6 @@
 
 <p align="center">  
-<span style="font-size: 30px;">
+<span style="font-size: 45px;font-weight:bold">
     Primer Laboratorio de Introduction to <br> Machine Learning  
 </span >
 </p>
@@ -19,7 +19,7 @@
   </em>  
 </p> 
 <p align="center"> 
-  <span style="font-size: 24px;">
+  <span style="font-size: 30px;font-weight:bold">
     Tema de Laboratorio: LINEAR REGRESION
   </span >
 </p> 
